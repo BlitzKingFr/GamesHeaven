@@ -9,7 +9,7 @@ const Navbar = () => {
                 <li className='hover:bg-yellow-400 hover:text-black p-3'><Link href="/NavElements/Contact">Contact</Link> </li>
                 <li className='hover:bg-yellow-400 hover:text-black p-3'><Link href="/NavElements/About">About us</Link> </li>
                 <li className='hover:bg-yellow-400 hover:text-black p-3'><Link href="/NavElements/FAQ">FAQ</Link> </li>
-                <button><Link href="#">Login</Link></button>
+                <button><Link href="#">Login/</Link></button>
             </ul>
         </div>
     </nav>
